@@ -21,6 +21,38 @@ Technology used
 - can Re-ADD the task from deleted/completed list into Main Notes List again
 - can delete the notes from history one by one as well as all at the same time
 
+<img src="https://github.com/borsezf2/ToDo_App/blob/master/images/web_hi_res_512.png" width=50/>
 
 
+
+
+<div class="row">
+  <div class="column">
+<img src="https://github.com/borsezf2/ToDo_App/blob/master/images/Screenshot_2019-07-14-13-38-54.jpg" width=400/>
+  </div>
+ 
+
+  <div class="column">
+<img src="https://github.com/borsezf2/ToDo_App/blob/master/images/Screenshot_2019-07-14-13-40-08.jpg" width=400/>
+  </div>
+  
+</div>
+<div class="row">
+  <div class="column">
+<img src="https://github.com/borsezf2/ToDo_App/blob/master/images/Screenshot_2019-07-14-13-40-18.jpg" width=400/>
+  </div>
+  <div class="column">
+<img src="https://github.com/borsezf2/ToDo_App/blob/master/images/Screenshot_2019-07-14-13-40-29.jpg" width=400/>
+  </div>
+  
+</div>
+<div class="row">
+  <div class="column">
+<img src="https://github.com/borsezf2/ToDo_App/blob/master/images/Screenshot_2019-07-14-13-46-29.jpg" width=400/>
+  </div>
+  <div class="column">
+<img src="https://github.com/borsezf2/ToDo_App/blob/master/images/-feature-graphic.png" width=400/>
+  </div>
+  
+</div>
 
