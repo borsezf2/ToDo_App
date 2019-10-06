@@ -21,6 +21,8 @@ Technology used
 - can Re-ADD the task from deleted/completed list into Main Notes List again
 - can delete the notes from history one by one as well as all at the same time
 
+This is an open source project, feel free to work on this. you dont't need to set up any extra things in this project just run this and you'll be set to go.
+
 <img src="https://github.com/borsezf2/ToDo_App/blob/master/images/web_hi_res_512.png" width=50/>
 
 
